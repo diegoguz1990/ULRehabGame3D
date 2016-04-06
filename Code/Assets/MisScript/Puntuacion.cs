@@ -20,7 +20,7 @@ public class Puntuacion : MonoBehaviour {
         //if(other.tag == "Objetivo")
         //{
             Puntos++;
-            Debug.Log("Aumenta el puntaje");
+            Debug.Log("Aumenta el puntaje!");
             //Destroy(other.gameObject);
         //}
     }
